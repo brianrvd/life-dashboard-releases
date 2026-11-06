@@ -1,0 +1,21 @@
+{
+  "name": "Life Dashboard",
+  "identifier": "de.brianrvd.lifedashboard.source",
+  "subtitle": "Persönliche Begleit-App zum Life Dashboard",
+  "description": "Fertige Builds der Life-Dashboard-App für SideStore.",
+  "tintColor": "16775F",
+  "apps": [
+    {
+      "name": "Life Dashboard",
+      "bundleIdentifier": "de.brianrvd.lifedashboard",
+      "developerName": "Brian",
+      "subtitle": "Aufgaben, Termine, Gewohnheiten",
+      "localizedDescription": "Heute, Aufgaben, Kalender mit Serienterminen, Einkaufsliste und Erinnerungen – synchron mit dem Life Dashboard auf claude.ai.",
+      "tintColor": "16775F",
+      "category": "productivity",
+      "versions": [],
+      "appPermissions": { "entitlements": [], "privacy": {} }
+    }
+  ],
+  "news": []
+}
