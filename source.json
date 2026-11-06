@@ -13,8 +13,21 @@
       "localizedDescription": "Heute, Aufgaben, Kalender mit Serienterminen, Einkaufsliste und Erinnerungen – synchron mit dem Life Dashboard auf claude.ai.",
       "tintColor": "16775F",
       "category": "productivity",
-      "versions": [],
-      "appPermissions": { "entitlements": [], "privacy": {} }
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "2",
+          "date": "2026-11-06",
+          "localizedDescription": "Build 2",
+          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.0-2/LifeDashboard.ipa",
+          "size": 247053,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
