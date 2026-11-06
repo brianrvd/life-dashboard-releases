@@ -15,6 +15,15 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.5",
+          "buildVersion": "5",
+          "date": "2026-11-06",
+          "localizedDescription": "Build 5",
+          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.5/LifeDashboard.ipa",
+          "size": 415611,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4",
           "buildVersion": "4",
           "date": "2026-11-06",
@@ -49,13 +58,13 @@
       "iconURL": "https://raw.githubusercontent.com/brianrvd/life-dashboard-releases/main/icon.png",
       "screenshotURLs": [],
       "screenshots": [],
-      "version": "1.4",
+      "version": "1.5",
       "versionDate": "2026-11-06",
-      "versionDescription": "Build 4",
-      "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.4/LifeDashboard.ipa",
-      "size": 414707,
+      "versionDescription": "Build 5",
+      "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.5/LifeDashboard.ipa",
+      "size": 415611,
       "minOSVersion": "17.0",
-      "buildVersion": "4"
+      "buildVersion": "5"
     }
   ],
   "news": [],
