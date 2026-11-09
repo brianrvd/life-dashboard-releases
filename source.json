@@ -1,17 +1,17 @@
 {
-  "name": "Life Dashboard",
+  "name": "Stride",
   "identifier": "de.brianrvd.lifedashboard.source",
-  "subtitle": "Persönliche Begleit-App zum Life Dashboard",
-  "description": "Fertige Builds der Life-Dashboard-App für SideStore.",
-  "tintColor": "16775F",
+  "subtitle": "Dein Alltag an einem Ort",
+  "description": "Fertige Builds der Stride-App für SideStore.",
+  "tintColor": "2563EB",
   "apps": [
     {
-      "name": "Life Dashboard",
+      "name": "Stride",
       "bundleIdentifier": "de.brianrvd.lifedashboard",
       "developerName": "Brian",
-      "subtitle": "Aufgaben, Termine, Gewohnheiten",
-      "localizedDescription": "Heute, Aufgaben, Kalender mit Serienterminen, Einkaufsliste und Erinnerungen – synchron mit dem Life Dashboard auf claude.ai.",
-      "tintColor": "16775F",
+      "subtitle": "Aufgaben, Termine, Gym, Gewohnheiten",
+      "localizedDescription": "Aufgaben, Kalender, Mails, Ernährung, Gym, Ziele und ein Assistent, der alles kennt: dein Alltag an einem Ort, synchron mit dem Dashboard auf claude.ai.",
+      "tintColor": "2563EB",
       "category": "productivity",
       "versions": [
         {
