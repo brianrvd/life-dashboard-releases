@@ -15,6 +15,15 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.27",
+          "buildVersion": "27",
+          "date": "2026-11-09",
+          "localizedDescription": "Build 27",
+          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.27/LifeDashboard.ipa",
+          "size": 1438422,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.26",
           "buildVersion": "26",
           "date": "2026-11-09",
@@ -49,15 +58,6 @@
           "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.23/LifeDashboard.ipa",
           "size": 1377281,
           "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.22",
-          "buildVersion": "22",
-          "date": "2026-11-09",
-          "localizedDescription": "Build 22",
-          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.22/LifeDashboard.ipa",
-          "size": 1375115,
-          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
@@ -67,13 +67,13 @@
       "iconURL": "https://raw.githubusercontent.com/brianrvd/life-dashboard-releases/main/icon.png",
       "screenshotURLs": [],
       "screenshots": [],
-      "version": "1.26",
+      "version": "1.27",
       "versionDate": "2026-11-09",
-      "versionDescription": "Build 26",
-      "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.26/LifeDashboard.ipa",
-      "size": 1424369,
+      "versionDescription": "Build 27",
+      "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.27/LifeDashboard.ipa",
+      "size": 1438422,
       "minOSVersion": "17.0",
-      "buildVersion": "26"
+      "buildVersion": "27"
     }
   ],
   "news": [],
