@@ -15,6 +15,15 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.36",
+          "buildVersion": "36",
+          "date": "2026-11-11",
+          "localizedDescription": "Gym: echte Bewegungsanimationen für die Übungen. Diktat scrollt im Eingabefeld mit. Kalender: Wischen öffnet nicht mehr das Menü.",
+          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.36/LifeDashboard.ipa",
+          "size": 1673809,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.35",
           "buildVersion": "35",
           "date": "2026-11-11",
