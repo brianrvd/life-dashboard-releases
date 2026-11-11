@@ -15,6 +15,15 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.35",
+          "buildVersion": "35",
+          "date": "2026-11-11",
+          "localizedDescription": "Bessere Spracheingabe: ab iOS 26 mit Apples neuem Sprachmodell, letzte Wörter gehen nicht mehr verloren.",
+          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.35/LifeDashboard.ipa",
+          "size": 1634582,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.34",
           "buildVersion": "34",
           "date": "2026-11-10",
