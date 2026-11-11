@@ -15,6 +15,15 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.37",
+          "buildVersion": "37",
+          "date": "2026-11-12",
+          "localizedDescription": "E-Mail: Antworten und neue Mails schreiben (Outlook und Uni), mit Entwurf vom Assistenten.",
+          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.37/LifeDashboard.ipa",
+          "size": 1746783,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.36",
           "buildVersion": "36",
           "date": "2026-11-11",
