@@ -15,6 +15,15 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.38",
+          "buildVersion": "38",
+          "date": "2026-11-12",
+          "localizedDescription": "E-Mail: Herunterziehen funktioniert zuverlässig und zeigt, ob neue Mails da sind. Die Liste lädt selbst nach; Uni-Mails kommen jetzt nach spätestens einer Minute, Outlook sofort.",
+          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.38/LifeDashboard.ipa",
+          "size": 1749749,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.37",
           "buildVersion": "37",
           "date": "2026-11-12",
