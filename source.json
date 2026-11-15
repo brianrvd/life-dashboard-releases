@@ -15,11 +15,11 @@
       "category": "productivity",
       "versions": [
         {
-          "version": "1.39",
+          "version": "1.40",
           "buildVersion": "40",
           "date": "2026-11-16",
           "localizedDescription": "Spracheingabe über Gemini (Text vor dem Senden prüfen), Kalender mit Punkten und Feiertagen, Rezepte in der Ernährung, Einkaufsliste direkt bearbeiten, Mails werden beim Öffnen als gelesen markiert, alle Benachrichtigungen über ntfy, Logo sofort beim Start.",
-          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.39/LifeDashboard.ipa",
+          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.40/LifeDashboard.ipa",
           "size": 1856885,
           "minOSVersion": "17.0"
         },
