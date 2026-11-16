@@ -15,6 +15,15 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.44",
+          "buildVersion": "44",
+          "date": "2026-11-16",
+          "localizedDescription": "Build 44",
+          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.44/LifeDashboard.ipa",
+          "size": 2057804,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.43",
           "buildVersion": "43",
           "date": "2026-11-16",
@@ -49,15 +58,6 @@
           "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.38/LifeDashboard.ipa",
           "size": 1749749,
           "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.37",
-          "buildVersion": "37",
-          "date": "2026-11-12",
-          "localizedDescription": "E-Mail: Antworten und neue Mails schreiben (Outlook und Uni), mit Entwurf vom Assistenten.",
-          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.37/LifeDashboard.ipa",
-          "size": 1746783,
-          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
@@ -67,13 +67,13 @@
       "iconURL": "https://raw.githubusercontent.com/brianrvd/life-dashboard-releases/main/icon.png",
       "screenshotURLs": [],
       "screenshots": [],
-      "version": "1.43",
+      "version": "1.44",
       "versionDate": "2026-11-16",
-      "versionDescription": "Build 43",
-      "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.43/LifeDashboard.ipa",
-      "size": 2048787,
+      "versionDescription": "Build 44",
+      "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.44/LifeDashboard.ipa",
+      "size": 2057804,
       "minOSVersion": "17.0",
-      "buildVersion": "43"
+      "buildVersion": "44"
     }
   ],
   "news": [],
