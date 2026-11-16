@@ -15,6 +15,15 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.42",
+          "buildVersion": "42",
+          "date": "2026-11-16",
+          "localizedDescription": "Build 42",
+          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.42/LifeDashboard.ipa",
+          "size": 1941011,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.40",
           "buildVersion": "40",
           "date": "2026-11-16",
@@ -49,60 +58,6 @@
           "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.36/LifeDashboard.ipa",
           "size": 1673809,
           "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.35",
-          "buildVersion": "35",
-          "date": "2026-11-11",
-          "localizedDescription": "Bessere Spracheingabe: ab iOS 26 mit Apples neuem Sprachmodell, letzte Wörter gehen nicht mehr verloren.",
-          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.35/LifeDashboard.ipa",
-          "size": 1634582,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.34",
-          "buildVersion": "34",
-          "date": "2026-11-10",
-          "localizedDescription": "Build 34",
-          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.34/LifeDashboard.ipa",
-          "size": 1611478,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.33",
-          "buildVersion": "33",
-          "date": "2026-11-10",
-          "localizedDescription": "Build 33",
-          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.33/LifeDashboard.ipa",
-          "size": 1552491,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.32",
-          "buildVersion": "32",
-          "date": "2026-11-10",
-          "localizedDescription": "Build 32",
-          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.32/LifeDashboard.ipa",
-          "size": 1552969,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.31",
-          "buildVersion": "31",
-          "date": "2026-11-10",
-          "localizedDescription": "Build 31",
-          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.31/LifeDashboard.ipa",
-          "size": 1513828,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.30",
-          "buildVersion": "30",
-          "date": "2026-11-10",
-          "localizedDescription": "Build 30",
-          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.30/LifeDashboard.ipa",
-          "size": 1498391,
-          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
@@ -112,13 +67,13 @@
       "iconURL": "https://raw.githubusercontent.com/brianrvd/life-dashboard-releases/main/icon.png",
       "screenshotURLs": [],
       "screenshots": [],
-      "version": "1.34",
-      "versionDate": "2026-11-10",
-      "versionDescription": "Build 34",
-      "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.34/LifeDashboard.ipa",
-      "size": 1611478,
+      "version": "1.42",
+      "versionDate": "2026-11-16",
+      "versionDescription": "Build 42",
+      "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.42/LifeDashboard.ipa",
+      "size": 1941011,
       "minOSVersion": "17.0",
-      "buildVersion": "34"
+      "buildVersion": "42"
     }
   ],
   "news": [],
