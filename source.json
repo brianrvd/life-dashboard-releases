@@ -15,6 +15,15 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.45",
+          "buildVersion": "45",
+          "date": "2026-11-16",
+          "localizedDescription": "Build 45",
+          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.45/LifeDashboard.ipa",
+          "size": 2064309,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.44",
           "buildVersion": "44",
           "date": "2026-11-16",
@@ -49,15 +58,6 @@
           "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.40/LifeDashboard.ipa",
           "size": 1856885,
           "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.38",
-          "buildVersion": "38",
-          "date": "2026-11-12",
-          "localizedDescription": "E-Mail: Herunterziehen funktioniert zuverlässig und zeigt, ob neue Mails da sind. Die Liste lädt selbst nach; Uni-Mails kommen jetzt nach spätestens einer Minute, Outlook sofort.",
-          "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.38/LifeDashboard.ipa",
-          "size": 1749749,
-          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
@@ -67,13 +67,13 @@
       "iconURL": "https://raw.githubusercontent.com/brianrvd/life-dashboard-releases/main/icon.png",
       "screenshotURLs": [],
       "screenshots": [],
-      "version": "1.44",
+      "version": "1.45",
       "versionDate": "2026-11-16",
-      "versionDescription": "Build 44",
-      "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.44/LifeDashboard.ipa",
-      "size": 2057804,
+      "versionDescription": "Build 45",
+      "downloadURL": "https://github.com/brianrvd/life-dashboard-releases/releases/download/v1.45/LifeDashboard.ipa",
+      "size": 2064309,
       "minOSVersion": "17.0",
-      "buildVersion": "44"
+      "buildVersion": "45"
     }
   ],
   "news": [],
